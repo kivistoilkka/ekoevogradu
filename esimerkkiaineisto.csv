@@ -1,0 +1,4 @@
+Näytenumero;Rengasnumero;Laji;Sukupuoli;Ikä;PV;KK;Vuosi;Eliömaakunta;Kunta;Paikka;Latitude (ETRS-TM35FIN);Longitude (ETRS-TM35FIN);Pyyntitapa;Korona RT-qPCR;Korona RT-PCR;Korona positiivinen;Korona sekvenssi;Paramyxo RT-qPCR;Paramyxo RT-PCR;Paramyxo sekvenssi
+Vi001/00;1234;EPTNIL;F;ad;1;6;1900;N;Helsinki;Rautatieasema;6672239;385786;harppu;POS;POS;POS;POS;NEG;ND;ND
+Vi002/00;5678;PLEAUR;M;subad;16;7;1900;Ab;Turku;Kauppatori;6711057;239763;verkko;NEG;ND;NEG;ND;NEG;ND;ND
+Vi003/00;9999;EPTNIL;M;juv;30;8;1900;Oa;Vaasa;Rautatieasema;7007862;228724;pönttö;NEG;ND;NEG;ND;NEG;ND;ND
